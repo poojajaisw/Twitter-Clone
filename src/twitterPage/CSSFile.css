@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+.text {
+  margin-top: 50%;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.col2 {
+
+  width: 500px;
+  height: 300px;
+
+}
+
+.googlefont {
+  background-color: white;
+  color: black;
+}
+
+.wider-input {
+  width: 100%;
+}
+
+.register {
+  color: black;
+  text-align: center;
+}
+
+.nav-linkr {
+
+  text-align: center;
+  text-decoration: none;
+}
+
+.text-center {
+  background-color: blue;
+  padding: 10px;
+}
+
+
+.collogin {
+
+  width: 350px;
+  height: 300px;
+  background-color: blue;
+  text-align: center;
+
+}
+
+.text2{
+         margin-top: 35%;
+         font-size: 22px;
+}
